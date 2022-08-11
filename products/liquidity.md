@@ -57,7 +57,7 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 1.지갑을 연결하고 Mammoth Chain에 연결되어 있는지 확인합니다.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (2).png>)
 
 2.Liquidity로 이동&#x20;
 
@@ -77,11 +77,11 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 6.원하는 수량 입력합니다. "MAX"를 클릭하여 최대 수을 설정할 수도 있습니다.&#x20;
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 7."Approve"를 클릭합니다.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (16).png>)
 
 8\. Approve 후 트랜잭션 메시지를 승인하면  "Supply"가 활성화 됩니다. "Supply"를 클릭합니다.
 
@@ -105,5 +105,5 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 &#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 

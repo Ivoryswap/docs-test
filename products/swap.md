@@ -22,7 +22,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **3."From" 은 보유하고 있는 토큰,  "To"는 받을 토큰입니다. 교환할 토큰과 수량 선택하십시오.**
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (2).png>)
 
 ****
 
