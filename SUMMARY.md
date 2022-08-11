@@ -1,8 +1,9 @@
 # Table of contents
 
 * [소개](README.md)
-* [English](en/)
-* [한국어](ko/)
+* [English](english.md)
+* [한국어](undefined.md)
+
 ## 시작하기
 
 * [지갑](undefined-1/undefined.md)

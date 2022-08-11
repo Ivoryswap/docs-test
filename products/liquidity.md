@@ -8,7 +8,7 @@ description: >-
 
 ## 개요
 
-유동성(Liquidity)을 추가하면 기여자가 제공한 쌍에서 0.25%의 Swap 수수료를 얻을 수 있습니다.
+유동성(Liquidity)을 추가하면 기여자가 제공한 쌍에서 0.2%의 Swap 수수료를 얻을 수 있습니다.
 
 본인이 제공한 Liquidity가 Farm 목에 포함되어 있다면 훨씬 더 많은 보상을 받을 수 있습니다!
 
@@ -20,7 +20,7 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 누군가가 자신이 가진 토큰 중의 일부를 이더리움으로 교환하고 싶다면, 중앙거래소에서 암호화폐를 구매하기 위해 이더리움 매수 주문을 등록하고, 거래에 응해줄 상대방이 나타날 때까지 기다려야 할까요? 또한 거래할 만큼 충분한 수량을 보유하고 있어야 원하는 거래를 완료할 수 있습니다.
 
-즉, 암호화폐 시장에서의 유동성은 내가 거래하고자 하는 암호화폐를 얼마나 빠르고 쉽게 교환할 수 있는지의 정도를 의미합니다. 그러므로 풍부한 유동성은 쉽고 편리한 암호화폐 교환을 위해 필수적인 요소이며, IvorySwap을 비롯한 DeFi, Dentralized Finance에서는 이를 해결하기 위해 거대한 규모의 암호화폐가 예치된 스마트 컨트랙트 자산 풀(Pool)을 기반으로 암호화폐 교환이 가능하도록 설계되어 있습니다.
+즉, 암호화폐 시장에서의 유동성은 내가 거래하고자 하는 암호화폐를 얼마나 빠르고 쉽게 교환할 수 있는지를 의미합니다. 그러므로 풍부한 유동성은 쉽고 편리한 암호화폐 교환을 위해 필수적인 요소이며, IvorySwap을 비롯한 DeFi, Dentralized Finance에서는 이를 해결하기 위해 거대한 규모의 암호화폐가 예치된 스마트 컨트랙트 자산 풀(Pool)을 기반으로 암호화폐 교환이 가능하도록 설계되어 있습니다.
 
 ## 유동성 풀의 예치 방법, 특징이 무엇인가요?
 
@@ -34,7 +34,7 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 2. 예치 시 각 토큰의 현재 가격 기준으로, 동등한 가치의 토큰 수량을 예치하게 됩니다. 만일 리플과 이더리움의 현재 가격이 각각 $2.0, $4,000인 상황에서 100 XRP를 예치하고자 하는 사용자는 200달러 어치의 리플(2.0\*100)과 동일한 가치의 이더리움을 예치해야 하므로, 0.05 ETH를 함께 예치해야 합니다. \
    (200/4000) 이때 암호화폐의 가격은 외부 거래소 가격이 아니라, Ivoryswap의 컨트랙트 풀의 예치된 두 자산의 교환 비율(가격)을 기준으로 합니다.\
 
-3. 자산 예치를 완료한 시점부터 매초마다 보상이 분배되며, 풀에 예치한 자산은 원한다면 언제든지 다시 출금할 수 있습니다.
+3. 자산 예치를 완료한 시점부터 매 초마다 보상이 분배되며, 풀에 예치한 자산은 원한다면 언제든지 다시 출금할 수 있습니다.
 
 ## **새 풀에 유동성(Liquidity) 추가**
 
@@ -57,45 +57,53 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 1.지갑을 연결하고 Mammoth Chain에 연결되어 있는지 확인합니다.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 2.Liquidity로 이동&#x20;
 
 &#x20;
 
-![Create a Liquidity 선](<../.gitbook/assets/image (3).png>)
+![Create a Liquidity 선](<../.gitbook/assets/image (3) (1).png>)
 
 3."Select Pair" 클릭하여 "Select Token"에서 추가할 토큰을 선택합니다.
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 4.목록에서 토큰을 선택합니다. 목록에 없으면 주소를 검색하여 목록에 추가할 수 있습니다.
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 5.두 번째 토큰을 선택합니다.
 
-6.원하는 수량 입력합니다. "MAX"를 클릭하여 최대값을 설정할 수도 있습니다.&#x20;
+6.원하는 수량 입력합니다. "MAX"를 클릭하여 최대 수을 설정할 수도 있습니다.&#x20;
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (3).png>)
 
-7."Supply"를 클릭하면 지갑에서 확인을 요청할 것입니다.
+7."Approve"를 클릭합니다.
 
-![](<../.gitbook/assets/image (6).png>)
+![](../.gitbook/assets/image.png)
 
-8.LP 토큰을 처음 만드는 경우 Pair에 대한 비율을 조정할 수 있습니다. "Approve" 클릭하십시오. 지갑에서 업데이트하는 데 몇 초 정도 걸릴 수 있습니다. 활성화된 후 "Supply"을 클릭합니다.
+8\. Approve 후 트랜잭션 메시지를 승인하면  "Supply"가 활성화 됩니다. "Supply"를 클릭합니다.
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 9."Supply" 클릭 후 Liquidity 생성에 대한 정보를 확인할 수 있습니다. "Add"를 클릭합니다.&#x20;
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (17).png>)
 
-10\. "Add"후 "Transaction Submitted"가 나오면 Liquidity 생성을 완료한 것입니다.       &#x20;
+10\. "Add"후 "Transaction Submitted"가 나오면 Liquidity 생성을 완료한 것입니다.      &#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+&#x20;
 
-11."View on Explorer"를 클릭하시면 MMT scan에서 거래 내역을 확인할 수 있습니다.   &#x20;
+![](<../.gitbook/assets/image (6).png>)
 
-10."My Liquidity"에 유동성이 잘 추가 되었는지 확인하고 관리할 수 있습니다.&#x20;
+
+
+11."View on Explorer"를 클릭하시면 MMTscan에서 트랜잭션 내역을 확인할 수 있습니다.   &#x20;
+
+10."My Liquidity"에 유동성이 잘 추가 되었는지 확인하고, 관리할 수 있습니다.
+
+&#x20;
+
+![](<../.gitbook/assets/image (2).png>)
 
