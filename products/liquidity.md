@@ -77,11 +77,11 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 6.원하는 수량 입력합니다. "MAX"를 클릭하여 최대 수을 설정할 수도 있습니다.&#x20;
 
-![](<../.gitbook/assets/image (3) (2).png>)
+![](<../.gitbook/assets/image (3) (2) (1).png>)
 
 7."Approve"를 클릭합니다.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (3).png>)
 
 8\. Approve 후 트랜잭션 메시지를 승인하면  "Supply"가 활성화 됩니다. "Supply"를 클릭합니다.
 
@@ -89,13 +89,13 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 9."Supply" 클릭 후 Liquidity 생성에 대한 정보를 확인할 수 있습니다. "Add"를 클릭합니다.&#x20;
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (2).png>)
 
 10\. "Add"후 "Transaction Submitted"가 나오면 Liquidity 생성을 완료한 것입니다.      &#x20;
 
 &#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
