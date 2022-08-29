@@ -14,7 +14,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **1.우측 상단의 Connect Wallet 버튼을 클릭하여 MetaMask 지갑으로 Mammoth Chain에 연결합니다. MetaMask는 네트워크 전환 권한을 요청할 것입니다.**
 
-![](<../.gitbook/assets/image (28) (2).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 **2. 지갑 연결 후 "Swap"으로 이동**
 
@@ -38,7 +38,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **Swap 요청이 처리를 위해 Mammoth Chain로 전송되면 "Wating for Confrimation" 창이 나옵니다.**&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 
 
