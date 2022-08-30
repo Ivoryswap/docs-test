@@ -67,17 +67,17 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 3."Select Pair" 클릭하여 "Select Token"에서 추가할 토큰을 선택합니다.
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 4.목록에서 토큰을 선택합니다. 목록에 없으면 주소를 검색하여 목록에 추가할 수 있습니다.
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (2).png>)
 
 5.두 번째 토큰을 선택합니다.
 
 6.원하는 수량 입력합니다. "MAX"를 클릭하여 최대 수을 설정할 수도 있습니다.&#x20;
 
-![](<../.gitbook/assets/image (3) (2) (1).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 7."Approve"를 클릭합니다.
 
@@ -85,7 +85,7 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 8\. Approve 후 트랜잭션 메시지를 승인하면  "Supply"가 활성화 됩니다. "Supply"를 클릭합니다.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 9."Supply" 클릭 후 Liquidity 생성에 대한 정보를 확인할 수 있습니다. "Add"를 클릭합니다.&#x20;
 
@@ -95,7 +95,7 @@ LP토큰을 Farm에서 Staking하여 IVY를 얻을 수 있습니다.
 
 &#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 
 

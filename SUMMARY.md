@@ -2,15 +2,11 @@
 
 * [소개](README.md)
 
-## Language
-
-* [English](https://ivoryswap-finance.gitbook.io/ivoryswap/undefined-1/undefined)
-
 ## 시작하기
 
-* [지갑](undefined/undefined.md)
-* [FAQ 및 문제 해결](undefined/faq.md)
-* [유의 사항](undefined/undefined-1.md)
+* [지갑](undefined-1/undefined.md)
+* [FAQ 및 문제 해결](undefined-1/faq.md)
+* [유의 사항](undefined-1/undefined-1.md)
 
 ## Products
 

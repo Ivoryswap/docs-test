@@ -38,7 +38,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **Swap 요청이 처리를 위해 Mammoth Chain로 전송되면 "Wating for Confrimation" 창이 나옵니다.**&#x20;
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 
 
