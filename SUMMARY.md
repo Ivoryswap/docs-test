@@ -2,6 +2,10 @@
 
 * [소개](README.md)
 
+## Language
+
+* [English](https://ivoryswap-finance.gitbook.io/ivoryswap-en/)
+
 ## 시작하기
 
 * [지갑](undefined-1/undefined.md)

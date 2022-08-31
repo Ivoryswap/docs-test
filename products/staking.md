@@ -12,19 +12,19 @@ Staking은 IVY나 다른 토큰을 보상으로 받을 수 있습니다. IVY만 
 
 #### 1.Staking할  Pool을 선택하세요
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 #### 2.Pool을 선택했으면 Enable 버튼을 클릭 후 트랜잭션 메시지 확인합니다.&#x20;
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 #### 3. Enable이 완료되면 "Staking"이 활성화 됩니다. 'Add'를 클릭합니다.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 #### 4.  Staking에 사용할 IVY 수량을 선택합니다.
 
-![](<../.gitbook/assets/image (5).png>)
+![](../.gitbook/assets/image.png)
 
 #### 5."Confirm"을 클릭 후, 트랜잭션을 승인합니다.  &#x20;
 
@@ -36,7 +36,7 @@ Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니�
 
 #### 6. 성공적으로 Staked가 된 을 확인할 수 있습니다.
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ## Staking Pool에서 IVY 추가 및 제거
 
@@ -44,17 +44,17 @@ Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니�
 
 Staking Pool에 더 많은 IVY를 추가하거나, 수익성이 더 좋은 Pool로 옮길 수 있습니다.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (24).png>)
 
-#### 1.추가  staking는 Add, 회수는 Remove를 선택합니다.
+#### 1.추가  staking Add, 회수는 Remove를 선택합니다.
 
-![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (20).png>)
 
 #### 2. 수량을 선택하고 Add 또는 Remove를 선택합니다.
 
 #### 3. 트랜잭션을 승인하면 성공적으로 회수,Staking이 완료됩니다.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 
 

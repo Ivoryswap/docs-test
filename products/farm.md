@@ -18,7 +18,7 @@ Farm 페이지에 방문하시면 참여 가능한 Farm 목록이 표시됩니�
 
 #### 2.Farm을 진행할 Pool을 찾은 후 유동성(Liquidity) 페이지에서 해당 Pool의 LP를 만드세요.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 
 
@@ -28,17 +28,17 @@ Farm 페이지에 방문하시면 참여 가능한 Farm 목록이 표시됩니�
 
 #### 4. 'Enable' 클릭 후 트랜잭션 메시지를 승인한 후 , 'Staked LP'를 클릭합니다.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 #### 5. Liquidity Pool을 생성했다면 해당 Pool의 LP Token이 Balance에 표기됩니다.&#x20;
 
 #### Staking할 LP Token의 수량을 선택합니다.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 #### 6."Confirm"을 클릭 후, 트랜잭션을 승인합니다.    &#x20;
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니다.
 
@@ -56,17 +56,13 @@ Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니�
 
 #### APR은 정확한가요?
 
-근사치에 가깝습니다. 더 많은 유동성이 유되면 풀에서 차지하는 양이 줄어들면서 APR도 자연스럽게 감소하는 것을 예상하셔야 합니다. APR 또한 거래 수수료를 차지하기 때문에, 그 Pool에 대한 거래량이 증가할수록,  본인이 얻는 있는 수수료 수익도 상승합니다.
+근사치에 가깝습니다. 더 많은 유동성이 유되면 풀에서 차지하는 양이 줄어들면서 APR도 자연스럽게 감소하는 것을 예상하셔야 합니다. APR 거래 수수료를 포함하기 때문에, 그 Pool에 대한 거래량이 증가할수록,  본인이 얻는 있는 수수료 수익도 상승합니다.
 
 ## APR 계산
 
 Volume 24H \* Fee / 100 \* 365 = 연간 수수료(Yearly Fee)&#x20;
 
 (Yearly Fee/Liquidity)\*100 =LP Rewards APR
-
-## Farm에 참여하면 어떤 이득이 있을까요?
-
-예치한 토큰을 누군가 Swap할 때마다 수수료를 징수합니다. LP 토큰의 양은 증가하지 않지만, 토큰의 가치는 증가합니다. 예치한 Farm의 비율을 기준으로 IVY 획득합니다.
 
 
 
