@@ -12,13 +12,13 @@ description: 보상을 받을 수 있는 유동성 풀에 유동성을 제공했
 
 Farm 페이지에 방문하시면 참여 가능한 Farm 목록이 표시됩니다.&#x20;
 
-![유동성이 높은 순서대로 나열됩니다.  ](<../.gitbook/assets/image (29).png>)
+![유동성이 높은 순서대로 나열됩니다.  ](<../.gitbook/assets/image (29) (2).png>)
 
 
 
 #### 2.Farm을 진행할 Pool을 찾은 후 유동성(Liquidity) 페이지에서 해당 Pool의 LP를 만드세요.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 
 
@@ -28,17 +28,17 @@ Farm 페이지에 방문하시면 참여 가능한 Farm 목록이 표시됩니�
 
 #### 4. 'Enable' 클릭 후 트랜잭션 메시지를 승인한 후 , 'Staked LP'를 클릭합니다.
 
-![](<../.gitbook/assets/image (3) (2).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 #### 5. Liquidity Pool을 생성했다면 해당 Pool의 LP Token이 Balance에 표기됩니다.&#x20;
 
 #### Staking할 LP Token의 수량을 선택합니다.
 
-![](<../.gitbook/assets/image (2) (3).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 #### 6."Confirm"을 클릭 후, 트랜잭션을 승인합니다.    &#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니다.
 
@@ -50,7 +50,7 @@ Transaction Submitted가 나오면 LP Token Stkaing이 잘 완료된 것입니�
 
 &#x20;   &#x20;
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ## Farm FAQ  &#x20;
 

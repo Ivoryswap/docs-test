@@ -30,7 +30,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **4.수량 선택 후 "Approve" 활성화되면 "Approve" 클릭 후 지갑에서 권한을 요청할 것입니다.**
 
-!["Approve" 승인 후 "Swap" 버튼이 활성화 되고 "Swap"을 클릭합니다.](<../.gitbook/assets/image (25) (1).png>)
+!["Approve" 승인 후 "Swap" 버튼이 활성화 되고 "Swap"을 클릭합니다.](<../.gitbook/assets/image (25).png>)
 
 **5.Swap 버튼 클릭 후 메타마스크에서 거래 승인을 합니다.**&#x20;
 
@@ -38,7 +38,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **Swap 요청이 처리를 위해 Mammoth Chain로 전송되면 "Wating for Confrimation" 창이 나옵니다.**&#x20;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 
 
@@ -48,7 +48,7 @@ description: Swap은 자동화된 유동성 풀을 통해 한 토큰을 다른 �
 
 **MMTscan에서 확인할 수 있습니다.**
 
-![](<../.gitbook/assets/image (43) (1).png>)
+![](<../.gitbook/assets/image (43).png>)
 
 ## Swap FAQ
 

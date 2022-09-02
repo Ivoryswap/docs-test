@@ -10,9 +10,9 @@ description: >-
 
 IvorySwap은 Mammoth Chain Network에 구축된 애플리케이션으로서 유동성을 제공하여 사용자들이 토큰 거래, Staking할 수 있는 탈중앙화 금융(DeFi)서비스 입니다.
 
-IvorySwap은 2022년 6월에 출시되었으며 Mammoth Chain에서 암호화폐를 교환할 수 있는 탈중앙화 래소입니다.
+IvorySwap은 2022년 6월에 출시되었으며 Mammoth Chain에서 가상자산 교환할 수 있는 탈중앙화 래소입니다.
 
-IvorySwap은 사용자들은 유동성 풀에서 거래하는 자동화 마켓 메이커 모델(Automated Market-Making)을 사용합니다.  빠른 거래 속도와 낮은 수수료를 바탕으로 사용자들에게 부담 없는 거래 환경을 제공합니다. Farm과 Staking 기능을 제공하여 높은 수익률을 제공하고 다른 토큰들을 지속적으로 보상받을 수 있습니다.
+IvorySwap 사용자들은 유동성 풀에서 거래하는 자동화 마켓 메이커 모델(Automated Market Maker)을 사용합니다.  빠른 거래 속도와 낮은 수수료를 바탕으로 사용자들에게 부담 없는 거래 환경을 제공합니다. Farm과 Staking 기능을 제공하여 높은 수익률을 제공하고 다른 토큰들을 지속적으로 보상받을 수 있습니다.
 
 ## Swap은 무엇인가요?   &#x20;
 
